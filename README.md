@@ -8,7 +8,7 @@ Data Engineer
 
 Interest
 --------
-* MachineLearning, DeepLearning (Pandas, Scikit-learn, Pytorch, Tensorflow)
+* Machine Learning, Deep Learning (Pandas, Scikit-learn, Pytorch, Tensorflow)
 * Distributed Processing Massive Real-time Streaming Data
 * Cloud Platform Tool (GCP, AWS)
 
