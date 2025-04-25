@@ -1,18 +1,19 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchaewon-ygy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Chaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaewon-ygya&show_icons=true&theme=radical)
 
 Data Engineer
 -------------
-* Data ETL, Analyze and Organize Raw Data
+* ETL Pipeline, Analyze and Organize Raw Data
 * Build/ Optimized Data Sytems and Pipeline
 * Develop Analytical Tools and Programs
 
 Interest
 --------
+* LLM
 * Machine Learning, Deep Learning (Pandas, Scikit-learn, Pytorch, Tensorflow)
 * Distributed Processing Massive Real-time Streaming Data
-* Cloud Platform Tool (GCP, AWS)
+* Cloud Platform (GCP, AWS, Confluent)
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaewon.lee@deliveryhero.co.kr)](mailto:chaewon.lee@deliveryhero.co.kr)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaewon.lee@wesang.com)](mailto:chaewon.lee@wesang.com)
 <!--
 **chaewon-ygy/chaewon-ygy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
