@@ -1,4 +1,4 @@
-![Chaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaewon-ygya&show_icons=true&theme=radical)
+![Chaewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaewon-ygy&show_icons=true&theme=radical)
 
 Data Engineer
 -------------
